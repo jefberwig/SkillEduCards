@@ -1,0 +1,258 @@
+# SkillEduCards
+
+# 09 - Sistema de Gamificação
+
+Versão: 0.1.0-alpha
+
+---
+
+# Objetivo
+
+Definir as regras de gamificação do SkillEduCards, promovendo engajamento, protagonismo estudantil e reconhecimento do desenvolvimento individual.
+
+A gamificação deve incentivar comportamentos positivos e apoiar o processo de aprendizagem, sem promover competição negativa entre estudantes.
+
+---
+
+# Filosofia
+
+O SkillEduCards utiliza mecânicas de jogos para tornar a aprendizagem mais significativa.
+
+O objetivo não é criar vencedores e perdedores.
+
+O objetivo é tornar a evolução visível e motivadora.
+
+---
+
+# Estrutura da Gamificação
+
+Toda a experiência do estudante é composta por:
+
+* XP
+* Níveis
+* Missões
+* Medalhas
+* Especialidades
+* Temporadas
+* Conquistas
+* Álbum de Cartas
+
+---
+
+# XP (Experiência)
+
+O XP representa toda experiência acumulada pelo estudante.
+
+Nunca é perdido.
+
+Cada ação positiva gera novos pontos.
+
+---
+
+# Sugestão Inicial de XP
+
+| Ação                           | XP  |
+| ------------------------------ | --- |
+| Entrega no prazo               | +20 |
+| Participação em aula           | +10 |
+| Frequência semanal completa    | +30 |
+| Conclusão de missão            | +50 |
+| Leitura registrada             | +25 |
+| Projeto concluído              | +40 |
+| Ajuda a um colega              | +15 |
+| Participação em evento escolar | +30 |
+
+---
+
+# Níveis
+
+O estudante evolui conforme acumula XP.
+
+| Nível | XP Necessário |
+| ----- | ------------- |
+| 1     | 0             |
+| 2     | 100           |
+| 3     | 250           |
+| 4     | 450           |
+| 5     | 700           |
+| 6     | 1000          |
+| 7     | 1400          |
+| 8     | 1900          |
+| 9     | 2500          |
+| 10    | 3200          |
+
+Novos níveis poderão ser adicionados futuramente.
+
+---
+
+# Títulos Evolutivos
+
+A evolução será representada também por títulos.
+
+| Nível | Título      |
+| ----- | ----------- |
+| 1–2   | Aprendiz    |
+| 3–4   | Explorador  |
+| 5–6   | Descobridor |
+| 7–8   | Inventor    |
+| 9–10  | Guardião    |
+
+Os títulos possuem função narrativa e motivacional.
+
+---
+
+# Missões
+
+As missões representam objetivos pedagógicos.
+
+Podem ser:
+
+## Individuais
+
+Exemplo:
+
+* entregar todas as atividades da semana;
+* ler um livro;
+* concluir um projeto.
+
+---
+
+## Coletivas
+
+Exemplo:
+
+* turma alcançar 95% de frequência;
+* desafio de leitura;
+* projeto interdisciplinar.
+
+---
+
+# Medalhas
+
+Reconhecem competências desenvolvidas.
+
+Exemplos:
+
+* Organizado;
+* Persistente;
+* Criativo;
+* Colaborador;
+* Investigador;
+* Comunicador;
+* Leitor Frequente.
+
+Um estudante pode possuir diversas medalhas.
+
+---
+
+# Especialidades
+
+Representam áreas de destaque.
+
+Exemplos:
+
+* Matemática;
+* Ciências;
+* Tecnologia;
+* Artes;
+* Comunicação;
+* Liderança.
+
+As especialidades evoluem continuamente.
+
+---
+
+# Temporadas
+
+Cada ano letivo corresponde a uma temporada.
+
+Cada temporada poderá possuir:
+
+* identidade visual;
+* medalhas exclusivas;
+* missões especiais;
+* eventos;
+* cartas comemorativas.
+
+---
+
+# Rankings
+
+O sistema não possui ranking geral.
+
+Existem rankings temáticos.
+
+Exemplos:
+
+* Evolução;
+* Frequência;
+* Colaboração;
+* Leitura;
+* Projetos;
+* Criatividade.
+
+Todos os estudantes podem aparecer em diferentes categorias.
+
+---
+
+# Poder Pedagógico
+
+O Poder Pedagógico é um indicador composto automaticamente pelo sistema.
+
+Ele considera:
+
+* XP;
+* participação;
+* frequência;
+* projetos;
+* missões concluídas.
+
+Seu objetivo é representar dedicação e evolução, nunca servir como nota.
+
+---
+
+# Recompensas
+
+As recompensas podem incluir:
+
+* novas medalhas;
+* novos avatares;
+* molduras para cartas;
+* títulos especiais;
+* cartas comemorativas;
+* conquistas institucionais.
+
+Nenhuma recompensa concede vantagem sobre outros estudantes.
+
+---
+
+# Eventos Especiais
+
+A escola poderá criar eventos temporários.
+
+Exemplos:
+
+* Semana da Leitura;
+* Olimpíada de Matemática;
+* Desafio Scratch;
+* Mês da Sustentabilidade.
+
+Cada evento poderá gerar missões e medalhas exclusivas.
+
+---
+
+# Regras Fundamentais
+
+* Nenhum estudante perde XP.
+* Não existem punições públicas.
+* Não existem cartas negativas.
+* Toda evolução é permanente.
+* Toda conquista é registrada.
+
+---
+
+# Resultado Esperado
+
+O estudante deve sentir que sua dedicação diária produz resultados concretos, reconhecidos pela escola e registrados em sua jornada de aprendizagem.
+
+A gamificação deve fortalecer o protagonismo, a autonomia e o compromisso com a aprendizagem, mantendo sempre um ambiente acolhedor, colaborativo e inclusivo.
