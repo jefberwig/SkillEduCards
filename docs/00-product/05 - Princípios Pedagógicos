@@ -1,0 +1,143 @@
+# SkillEduCards
+
+# 05 - Princípios Pedagógicos
+
+Versão: 0.1.0-alpha
+
+---
+
+# Objetivo
+
+Estabelecer os princípios pedagógicos que orientam o desenvolvimento e a utilização do SkillEduCards.
+
+Todas as funcionalidades da plataforma deverão respeitar estes princípios.
+
+---
+
+# Princípio 1 - Evolução Contínua
+
+O SkillEduCards acredita que todo estudante é capaz de evoluir.
+
+O foco da plataforma é acompanhar o progresso individual, valorizando pequenas conquistas e incentivando o desenvolvimento permanente.
+
+Não existe estudante "fraco" ou "forte".
+
+Existe um estudante em constante construção do conhecimento.
+
+---
+
+# Princípio 2 - Protagonismo Estudantil
+
+O estudante é o principal agente do seu processo de aprendizagem.
+
+A plataforma deve estimular:
+
+* autonomia;
+* organização;
+* responsabilidade;
+* participação;
+* autoavaliação.
+
+Cada conquista deve fortalecer a percepção de que seu esforço produz resultados.
+
+---
+
+# Princípio 3 - Gamificação com Intencionalidade Pedagógica
+
+A gamificação é utilizada como estratégia de engajamento, e não apenas como recompensa.
+
+Cartas, missões, medalhas e níveis existem para tornar a aprendizagem mais significativa e motivadora.
+
+---
+
+# Princípio 4 - Reconhecimento das Conquistas
+
+O sistema valoriza atitudes positivas como:
+
+* entrega de atividades;
+* participação;
+* colaboração;
+* leitura;
+* criatividade;
+* persistência;
+* frequência.
+
+Toda conquista deve representar um avanço na jornada do estudante.
+
+---
+
+# Princípio 5 - Diversidade das Aprendizagens
+
+Cada estudante aprende de maneira diferente.
+
+O sistema deve reconhecer diferentes competências e permitir que todos encontrem oportunidades para se destacar.
+
+Não haverá um único indicador de sucesso.
+
+---
+
+# Princípio 6 - Dados para Apoio Pedagógico
+
+As informações apresentadas pelo sistema têm como finalidade apoiar professores e equipes pedagógicas.
+
+Os dados não devem ser utilizados para rotular ou expor estudantes.
+
+Seu objetivo é orientar intervenções, acompanhar evolução e identificar oportunidades de aprendizagem.
+
+---
+
+# Princípio 7 - Privacidade e Ética
+
+O SkillEduCards respeita a privacidade dos estudantes.
+
+Por isso:
+
+* não exibe nome completo;
+* não apresenta informações sensíveis;
+* não divulga registros disciplinares;
+* utiliza identificadores próprios quando necessário.
+
+---
+
+# Princípio 8 - Inclusão
+
+A plataforma deve ser acessível e acolhedora para todos os estudantes.
+
+As missões e os desafios deverão considerar diferentes ritmos, estilos e formas de aprendizagem.
+
+---
+
+# Princípio 9 - Colaboração Escola-Família
+
+O sistema deve fortalecer a comunicação entre professores, responsáveis e estudantes.
+
+Os responsáveis acompanharão objetivos, conquistas e evolução, participando ativamente do desenvolvimento do estudante.
+
+---
+
+# Princípio 10 - Cultura da Evolução
+
+O SkillEduCards adota como princípio fundamental:
+
+"O sistema não existe para classificar estudantes, mas para tornar visível sua evolução, reconhecer suas conquistas e apoiar professores na tomada de decisões pedagógicas."
+
+Todas as funcionalidades futuras deverão estar alinhadas a essa filosofia.
+
+---
+
+# Critérios para Novas Funcionalidades
+
+Antes de adicionar qualquer recurso, a equipe do projeto deverá responder:
+
+1. Esta funcionalidade incentiva a evolução do estudante?
+2. Ela auxilia o professor em decisões pedagógicas?
+3. Ela fortalece o protagonismo estudantil?
+4. Ela respeita a privacidade e a inclusão?
+
+Se a resposta for negativa para a maioria das perguntas, a funcionalidade não deverá integrar o MVP.
+
+---
+
+# Resultado Esperado
+
+O SkillEduCards deve contribuir para uma cultura escolar baseada em desenvolvimento contínuo, reconhecimento das conquistas, protagonismo estudantil e uso consciente de dados para promover aprendizagens mais significativas.
